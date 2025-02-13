@@ -1,7 +1,5 @@
-__pycache__/
-*.py[cod]
-*.so
+
 .env
 venv/
-*.egg-info/
 .vscode/
+messages.db
